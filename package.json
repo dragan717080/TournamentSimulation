@@ -1,0 +1,17 @@
+{
+  "name": "codebehind",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dragan",
+  "license": "ISC",
+  "description": "Simulation of a basketball tournament",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragan717080/TournamentSimulation.git"
+  }
+}
